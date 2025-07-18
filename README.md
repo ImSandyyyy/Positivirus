@@ -19,7 +19,7 @@ A beautiful, innovative, and clean design of a landing page to captivate clients
 - JavaScript
 
 ## Design Preview
-
+![alt image](https://github.com/ImSandyyyy/Positivirus/blob/9a0b39a2684c6f15a24c44fc7ef20e3e9b60ae21/assets/Design%20Preview/landing%20page.png)
 
 
 
