@@ -1,6 +1,7 @@
 const slides = document.querySelectorAll('.slide');
 const nextBtn = document.getElementById('nextBtn');
 const prevBtn = document.getElementById('prevBtn');
+
 let currentIndex = 0;
 
 function showSlide(index) {
