@@ -350,9 +350,8 @@ article > div{
 }
 article div img {
     width: 2rem;
-    position: absolute;
-    bottom: -2%;
-    
+    margin-left: 0.1rem;
+    margin-top: 1rem;  
 }
 
 article p {
@@ -380,9 +379,9 @@ article a {
 }
 
 .learn-more {
-    display: inline-block;
+    display: inline-flex;
     margin-top: 3.5rem;
-
+    align-items: center;
 }
 
 .workings {
